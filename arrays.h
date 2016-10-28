@@ -4,7 +4,7 @@
 #define TRUE 1
 #define FALSE 0
 /*
-1d Arrays
+1d Array
 */
 void print_1d_array(float a[], int length);
 void read_1d_array(float a[], int length);
