@@ -186,7 +186,7 @@ void insertion_sort(float a[], int length)
 	a[j+1]=temp;
 	}
 }
-/* Story 12
+ /* Story 12
 * As a user, I want to be able to do a linear search so I can compare
 * the speed of various linear and binary searching.
 */
