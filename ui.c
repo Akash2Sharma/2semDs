@@ -1,7 +1,7 @@
-  
+     
 #include <stdio.h>
 #include "arrays.h"
-#include "ui.h"
+#include "ui.h"  
 /* The variable "filename" is the default file name that save file will
 save to and load file will load from */
 char filename[80] = "test";
