@@ -15,7 +15,7 @@ float array_2d[80][80] = {{1, 2, 3},
                           {4, 5, 6},
                           {7, 8, 9}};
 /* 2d arrays for multiplication */
-float Amatrix[80][80];
+float Amatrix[80][80]; 
 float Bmatrix[80][80];
 float Cmatrix[80][80];
 /* Values for multiplication. AcolBrow contains the number of rows in
