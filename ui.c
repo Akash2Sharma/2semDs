@@ -11,7 +11,7 @@ float array_1d[80] = {1, 2, 3};
 /* 2d array for testing */
 int array_2d_row = 3;
 int array_2d_col = 3;
-float array_2d[80][80] = {{1, 2, 3},
+float array_2d[80][80] = {{1, 2, 3}, 
                           {4, 5, 6},
                           {7, 8, 9}};
 /* 2d arrays for multiplication */
