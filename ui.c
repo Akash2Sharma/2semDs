@@ -19,7 +19,7 @@ float Amatrix[80][80];
 float Bmatrix[80][80];
 float Cmatrix[80][80];
 /* Values for multiplication. AcolBrow contains the number of rows in
-A and the number of columns in B of the two matrices A and B that
+A and the number of columns in B of the two matrices A and B that 
 are to be multiplied. Arow contains the number of rows in A' Bcol
 contains the number of columns in B. */
 int AcolBrow;
