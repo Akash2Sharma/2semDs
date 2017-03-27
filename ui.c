@@ -9,7 +9,7 @@ char filename[80] = "test";
 int array_1d_length = 3;
 float array_1d[80] = {1, 2, 3};
 /* 2d array for testing */
-int array_2d_row = 3;
+int array_2d_row = 3; 
 int array_2d_col = 3;
 float array_2d[80][80] = {{1, 2, 3}, 
                           {4, 5, 6},
