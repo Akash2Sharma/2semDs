@@ -1,5 +1,5 @@
        
-#include <stdio.h>
+#include <stdio.h> 
 #include "arrays.h"
 #include "ui.h"  
 /* The variable "filename" is the default file name that save file will
