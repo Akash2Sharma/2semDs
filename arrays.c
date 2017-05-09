@@ -4,7 +4,7 @@
 #include <math.h> 
 #include "arrays.h"
 #include "ui.h" 
-/*
+/* 
 * Test code: lets you print the contents of an array with a
 * message. If you want no message call with an empty string (e.g.,
 * "print_array("", a, 10)")
